@@ -9,7 +9,6 @@
 
 #  Aliases 
 # Add aliases here
-# List Directory
 alias ls="lsd"
 alias l="ls -l"
 alias la="ls -a"
